@@ -1,11 +1,10 @@
-Directory for Lego Spike Prime Code
+## Directory for Lego Spike Prime Code
 
-Prerequisites
-=============
+###Prerequisites
 1. Lego Spike Prime Set
-2. Python IDE\
-   a. These will connect to the Spike Prime Hub\
-        i. Spike Prime App\
-        ii. VS Code\
-   b. Any other IDE but you will not be able to connect to the Hub
+2. Python IDE
+   1. These will connect to the Spike Prime Hub
+      1. Spike Prime App
+      2. VS Code
+   2. Any other IDE, but you will not be able to connect to the Hub
    
