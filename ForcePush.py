@@ -7,7 +7,6 @@ mp = MotorPair('C', 'D')
 ds = DistanceSensor('F')
 go = True
 
-
 # create a beep function
 def beep(nums):
     for x in range(nums):
@@ -19,8 +18,6 @@ def beep(nums):
     very quickly for duration seconds.
     After it stops moving, it beeps once.
     """
-
-
 def forcePush(distance=30, duration=1.5):
     startRun = time.time()
     while True:
@@ -38,8 +35,6 @@ def forcePush(distance=30, duration=1.5):
     an object with the set distance and backward until 
     an object is at least set distance
     """
-
-
 def hoverOne(distance=30, duration=15):
     startRun = time.time()
     while True:
